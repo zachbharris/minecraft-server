@@ -15,7 +15,7 @@ services:
       OPS: Trobleton
 
       # PLAYER SETTINGS
-      MAX_PLAYERS: 16
+      MAX_PLAYERS: 24
 
       # SERVER CONFIG
       MEMORY: '2G'
